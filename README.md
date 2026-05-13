@@ -1,4 +1,3 @@
-# Welcome to Respositories Of HaUI
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
-
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+<div align="center">
+[![Hanoi University of Industry](https://img.shields.io/badge/Hanoi_University_of_Industry-FFD700?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://haui.edu.vn)
+</div>
